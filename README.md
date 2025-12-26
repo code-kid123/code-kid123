@@ -1,1 +1,1 @@
--Architect of Structural Clarity | Web3 Technical Writer & Front-End Developer | Radiography Graduate | Public Speaker
+Architect of Structural Clarity | Front-End Developer & Web3 Technical Writer. Specializing in Smart Contract Security, DeFi Tokenomics, and GameFi. I translate complex blockchain protocols into high-impact, actionable documentation.
